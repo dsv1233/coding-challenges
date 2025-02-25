@@ -9,6 +9,8 @@ __pycache__/
 # C#
 bin/
 obj/
+*.csproj
+*.sln
 
 # Other
 .idea/**/*
