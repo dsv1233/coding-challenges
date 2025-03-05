@@ -6,6 +6,5 @@ def findTheDifference(s, t):
     """
     return chr(sum(map(ord, t)) - sum(map(ord, s)))
 
-
 res = findTheDifference("abcd", "abcde")
 print(res)
